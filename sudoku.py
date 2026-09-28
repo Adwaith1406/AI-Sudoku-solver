@@ -7,9 +7,6 @@ from tkinter import messagebox, ttk
 # =====================================================================
 # 1. CORE CSP AI ENGINE
 # =====================================================================
-#hello
-#HELLO
-#HELLOOOO
 
 class SudokuCSP:
 
